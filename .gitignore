@@ -1,0 +1,5 @@
+guard.lock
+guard.log
+install-result.txt
+backup/
+launcher/
